@@ -1,7 +1,7 @@
 <img src="https://ouch-cdn2.icons8.com/xSakfai9tkBBd7F_umGO2f76tjZanm4WNEz3tAhO_tk/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTIw/LzgwMDg1NDE5LTQ5/NGMtNDM3Mi1iMGMw/LWE2OTBlOWZkYzE5/Ny5wbmc.png" width=40% align = "right">
 
-# Olá, eu sou a Cristielle! 
-## Hello Dev's 👋
+# Hello Dev's, eu sou a Cristielle! 
+## Bem vindos ao meu perfil 👋
 
 - 🌱 Graduanda em T.I pela Univesp e aprendendo front-end e UX/UI design
 
