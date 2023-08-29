@@ -3,12 +3,11 @@
 # Hello Dev's, eu sou a Cristielle! 
 ## Bem vindos ao meu perfil 👋
 
-- 🌱 Graduanda em T.I pela Univesp e aprendendo front-end e UX/UI design
+- 🌱 Graduanda em T.I pela Univesp, aprendendo front-end e UX/UI design
+- ⚡ Curiosidades: Sou mãe, tenho uma gata, moro na praia, já cursei arquitetura e meu marido também é dev!
 
-## Estou aprendendo
+## Rotina de estudos
 Atualmente, além de cursar minha graduação em Tecnologia da Informação, participo dos programas de formação Descodificadas e Match! IBM+Mastertech. Também sou aluna do curso de UX design da Google e estou participando do Bootcamp do Santander! 
-
-⚡ Curiosidades: Sou mãe, tenho uma gata, moro na praia, já cursei arquitetura e meu marido também é dev!
 
 <div style="display: inline_block"><br>
   <h3>Ferramentas e Tecnologias</h3>
