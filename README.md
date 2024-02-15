@@ -6,9 +6,6 @@
 - 🌱 Estudante de T.I pela Univesp, aprendendo front-end e UX/UI design
 - ⚡ Curiosidades: Sou mãe, tenho uma gata, moro na praia, já cursei arquitetura e meu marido também é dev!
 
-## Rotina de estudos
-Atualmente, além de cursar minha graduação em Tecnologia da Informação, participo dos programas de formação Descodificadas e Match! IBM+Mastertech. Também sou aluna do curso de UX design da Google e estou participando do Bootcamp do Santander! 
-
 <div style="display: inline_block"><br>
   <h3>Ferramentas e Tecnologias</h3>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
@@ -22,7 +19,7 @@ Atualmente, além de cursar minha graduação em Tecnologia da Informação, par
 ## Contatos
 
 <div>
-  <a href="www.linkedin.com/in/cristielle-reis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href=" www.linkedin.com/in/cristielle-reis " target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
