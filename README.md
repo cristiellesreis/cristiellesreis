@@ -3,7 +3,7 @@
 # Hello Dev's! 
 ## Bem vindos ao meu perfil 👋
 
-- 🌱 Estudante de T.I pela Univesp, aprendendo front-end e UX/UI design
+- 🌱 Graduada em T.I pela Univesp, desenvolvedora front-end e aprendendo UX/UI design.
 - ⚡ Curiosidades: Sou mãe, tenho uma gata, moro na praia, já cursei arquitetura e meu marido também é dev!
 <div style="display: inline_block"><br>
   <h3>Ferramentas e Tecnologias</h3>
