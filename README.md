@@ -1,4 +1,4 @@
-## Oi! Eu sou a Cristielle,
+## Oi! Eu sou a Cristielle
 
 - Desenvolvedora Júnior com foco em front-end, estudando UX/UI
 - Bacharel em Tecnologia da Informação pela Univesp.
@@ -10,8 +10,8 @@
 <div>
 <a href="https://github.com/cristiellesreis">
 <div>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiellesreis&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=cristiellesreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiellesreis&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cristiellesreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos:
