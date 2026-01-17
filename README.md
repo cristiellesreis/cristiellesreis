@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Cristielle
 
-- Desenvolvedora Júnior com foco em front-end, estudando UX/UI
+- Desenvolvedora Júnior com foco em Front-end, em evolução contínua em Back-end e UX/UI.
 - Bacharel em Tecnologia da Informação pela Univesp.
 - Curiosidades: Sou mãe, moro na praia e já cursei arquitetura!
 - Tenho como foco o JavaScript, mas também me interesso por outras linguagens como Python e Java.
