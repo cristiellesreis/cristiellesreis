@@ -9,11 +9,11 @@
 
 ⚙️ Stack principal:  
 • Backend: Java, Spring Boot, APIs REST  
-• Frontend: Angular, HTML, CSS, JavaScript  
+• Frontend & UX/UI: Angular, HTML, CSS, JavaScript, Figma e sistemas de design
 
 🔗 Atuação com integração frontend-backend,  
 bancos de dados relacionais e versionamento com Git/GitHub
-<br>
+
 
 ![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=603E56&logoColor=B39EB5&style=flat-square)
 ![HTML5](https://img.shields.io/static/v1?logo=html5&label=&message=HTML5&color=603E56&logoColor=B39EB5&style=flat-square)
