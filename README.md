@@ -9,7 +9,7 @@
 
 ⚙️ Stack principal:  
 • Backend: Java, Spring Boot, APIs REST  
-• Frontend & UX/UI: Angular, HTML, CSS, JavaScript, Figma e sistemas de design
+• Frontend & UX/UI: Angular, HTML, CSS, JavaScript, prototipação no Figma e fundamentos de UX
 
 🔗 Atuação com integração frontend-backend,  
 bancos de dados relacionais e versionamento com Git/GitHub
